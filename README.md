@@ -3,6 +3,7 @@
 El programa cuenta con una interfaz gráfica amigable que facilita el proceso de escanear un rango de direcciones IP en una red. A continuación se describen los pasos a seguir:
 
 1. Ingresar los datos
+   
 En la pantalla principal encontrarás tres campos de texto:
   IP de inicio: la primera dirección IP del rango que se quiere analizar(Ejemplo: 192.168.0.1).
   IP de fin: la última dirección IP del rango(Ejemplo: 192.168.0.10).El programa analizará todas las direcciones comprendidas entre la IP    de inicio y la IP de fin.
@@ -12,7 +13,7 @@ En la pantalla principal encontrarás tres campos de texto:
 
 
 
-2. Iniciar el escaneo
+3. Iniciar el escaneo
 
 Presionar el botón Escanear.
 
