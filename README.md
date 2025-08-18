@@ -1,4 +1,4 @@
-Guía de uso del programa "Escáner de IPs"
+##Guía de uso del programa "Escáner de IPs"
 
 El programa cuenta con una interfaz gráfica amigable que facilita el proceso de escanear un rango de direcciones IP en una red. A continuación se describen los pasos a seguir:
 
