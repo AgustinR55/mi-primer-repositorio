@@ -6,7 +6,7 @@ El programa cuenta con una interfaz gráfica amigable que facilita el proceso de
    
 En la pantalla principal encontrarás tres campos de texto:
 
-/t IP de inicio: la primera dirección IP del rango que se quiere analizar(Ejemplo: 192.168.0.1).
+/T IP de inicio: la primera dirección IP del rango que se quiere analizar(Ejemplo: 192.168.0.1).
   
   IP de fin: la última dirección IP del rango(Ejemplo: 192.168.0.10).El programa analizará todas las direcciones comprendidas entre la IP    de inicio y la IP de fin.
   Tiempo de espera (ms): la cantidad de milisegundos que el programa esperará por la respuesta de cada IP(Ejemplo: 1000 (un segundo de       espera)). Si se ingresa un número negativo, el programa mostrará un mensaje de error.
