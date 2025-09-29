@@ -11,4 +11,6 @@ Dirección ip           nombre         estado          tiempo(ms).
 Y por último un botón de guardar en archivo, para guardar lo escaneado en un archivo.                         
 
 Hoy día 18-08 agregué un filtro, el cual sirve para buscar ips, ms, etc, según el mensaje que le pasemos. Además agregué un mensaje en la parte inferior de la pantalla que muestra todos los equipos que respondieron(que están validados) y le agregué un poco de diseño a la interfaz. Además solucioné errroes como ms negativos, o que la ip de inicio sea mayor a la ip final.
-Completando y terminando el código 
+Completando y terminando el código.
+
+Hoy día 29/09 realicé un botón el cuál te permite ver las conexiones abiertas o la tabla de enrutamiento.
