@@ -15,3 +15,5 @@ El programa cuenta con una interfaz gráfica amigable que facilita el proceso de
 6)Botón guardar escaneo: permite guardarla información del escaneo en un archivo a elección
 
 7)Campo para rellenar filtro: permite filtrar en base a palabras o números
+
+8)Botón ver info de red local: permite ver las conexiones abiertas(puertos y estados) o la tabla de enrutamiento
