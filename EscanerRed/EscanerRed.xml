@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
   <jar>C:\Users\Agus\Documents\Repositorio\mi-primer-repositorio\EscanerRed\mi-escaner.jar</jar>
-  <outfile>C:\Users\Agus\Documents\Repositorio\mi-primer-repositorio\EscanerRed\EscanerRed.exe</outfile>
+  <outfile>C:\Users\Agus\Documents\Repositorio\mi-primer-repositorio\EscanerRed\mi-escaner.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\Users\Agus\Downloads\ppcat.ico</icon>
+  <icon>C:\Users\Agus\Downloads\pablo.ico</icon>
   <jre>
     <path></path>
     <bundledJre64Bit>false</bundledJre64Bit>
@@ -24,10 +24,10 @@
     <runtimeBits>64/32</runtimeBits>
   </jre>
   <messages>
-    <startupErr>Activá el windows sucio</startupErr>
-    <bundledJreErr>Instalate el Java Runtime Environment</bundledJreErr>
-    <jreVersionErr>No tenés el Java Runtime Environment pobre</jreVersionErr>
-    <launcherErr>Tu archivo está mas corrupto que venezuela</launcherErr>
-    <instanceAlreadyExistsMsg>Te pintó descargarlo 2 veces? tanto espacio tenés? +</instanceAlreadyExistsMsg>
+    <startupErr>Sos un boludo no te funciona el programa</startupErr>
+    <bundledJreErr>Cambiate a construcciones</bundledJreErr>
+    <jreVersionErr>falopero</jreVersionErr>
+    <launcherErr>o al esnaola</launcherErr>
+    <instanceAlreadyExistsMsg>a fumar puchos</instanceAlreadyExistsMsg>
   </messages>
 </launch4jConfig>
